@@ -1,0 +1,7 @@
+Steps to run program
+1) unzip folder
+2)go to terminal and go to the folder src sub directory
+3)type java KMeans or java KMeansprob
+4)If that doesnt work delete all class files and type javac KMeans.java javac pixel.java javac Cluster.java javac KMeansprob.java
+5)repeat step 3 if you had to do step 4
+6) My image I tested with is dog.jpeg but it should work with any grayscale image(jpeg or png)
